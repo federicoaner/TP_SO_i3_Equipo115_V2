@@ -24,3 +24,20 @@ git add .
 git commit -m "Punto 7"
 git push
 
+
+
+Respuestas Alfa
+
+G:
+
+git branch --all
+git pull
+git checkout aner
+
+edita beta.txt con nombre, apellido y la información de ifconfig
+
+git status
+git add .
+git commit -m "Punto 8"
+git push
+
