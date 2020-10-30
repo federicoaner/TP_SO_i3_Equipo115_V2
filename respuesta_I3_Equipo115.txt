@@ -7,3 +7,20 @@ C- Tuve q usar los siguientes comandos:
 	git checkout main
  	git merge suarezGrecco 
 	git push
+
+Respuestas Gamma
+D- En la rama creada por Gamma no existe el archivo beta.txt
+E- Tuvimos un solo problema, al querer pushear, no existía en el repositorio remoto la rama creada, entonces tuvimos que hacer git push --set-upstream origin aner
+F- lista de comandos que usamos
+
+git pull
+git branch -all
+git checkout aner
+
+edita beta.txt con nombre, apellido y la informacion de ifconfig
+
+git status
+git add .
+git commit -m "Punto 7"
+git push
+
