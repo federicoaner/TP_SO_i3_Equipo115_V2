@@ -1,0 +1,9 @@
+
+
+Respuestas Beta
+A-Queda actualizado con la info q estaba en las otras ramas
+B-Si se pudieron ver los cambios.
+C- Tuve q usar los siguientes comandos: 
+	git checkout main
+ 	git merge suarezGrecco 
+	git push
