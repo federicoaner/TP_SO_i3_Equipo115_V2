@@ -1,0 +1,62 @@
+Federico Aner
+21:34
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::915c:ea5b:e386:7092  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:44:3d:e0  txqueuelen 1000  (Ethernet)
+        RX packets 10  bytes 1861 (1.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 60  bytes 7020 (7.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 44  bytes 4426 (4.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 44  bytes 4426 (4.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+
+Nombre: Christian Thomas
+Apellido: Suárez Grecco
+hora: 19:50
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::a00:27ff:fe4e:67ae  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:4e:67:ae  txqueuelen 1000  (Ethernet)
+        RX packets 210  bytes 204753 (204.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 136  bytes 13347 (13.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 60  bytes 5928 (5.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 60  bytes 5928 (5.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Fernando Javier Masotti
+19:55
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::8519:cc99:235c:ff94  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:a5:06:a0  txqueuelen 1000  (Ethernet)
+        RX packets 10091  bytes 9443757 (9.4 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3999  bytes 249166 (249.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 54  bytes 5256 (5.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 54  bytes 5256 (5.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
